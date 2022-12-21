@@ -454,6 +454,11 @@ body{
     position: relative;
     top: 20px;
 }
+.col-2 span{
+    color: #61b752;
+    margin-top: 10px;
+    display: block;
+}
 .col-3{
     position: relative;
     top: 20px;
